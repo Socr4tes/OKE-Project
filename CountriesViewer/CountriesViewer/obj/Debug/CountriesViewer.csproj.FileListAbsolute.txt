@@ -1,0 +1,110 @@
+c:\users\poldo_000\documents\visual studio 2013\Projects\CountriesViewer\CountriesViewer\obj\Debug\CountriesViewer.csprojResolveAssemblyReference.cache
+c:\users\poldo_000\documents\visual studio 2013\Projects\CountriesViewer\CountriesViewer\bin\CountriesViewer.dll.config
+c:\users\poldo_000\documents\visual studio 2013\Projects\CountriesViewer\CountriesViewer\bin\CountriesViewer.dll
+c:\users\poldo_000\documents\visual studio 2013\Projects\CountriesViewer\CountriesViewer\bin\CountriesViewer.pdb
+c:\users\poldo_000\documents\visual studio 2013\Projects\CountriesViewer\CountriesViewer\bin\Antlr3.Runtime.dll
+c:\users\poldo_000\documents\visual studio 2013\Projects\CountriesViewer\CountriesViewer\bin\EntityFramework.dll
+c:\users\poldo_000\documents\visual studio 2013\Projects\CountriesViewer\CountriesViewer\bin\EntityFramework.SqlServer.dll
+c:\users\poldo_000\documents\visual studio 2013\Projects\CountriesViewer\CountriesViewer\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\poldo_000\documents\visual studio 2013\Projects\CountriesViewer\CountriesViewer\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\poldo_000\documents\visual studio 2013\Projects\CountriesViewer\CountriesViewer\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\poldo_000\documents\visual studio 2013\Projects\CountriesViewer\CountriesViewer\bin\Microsoft.Owin.dll
+c:\users\poldo_000\documents\visual studio 2013\Projects\CountriesViewer\CountriesViewer\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\poldo_000\documents\visual studio 2013\Projects\CountriesViewer\CountriesViewer\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\poldo_000\documents\visual studio 2013\Projects\CountriesViewer\CountriesViewer\bin\Microsoft.Owin.Security.dll
+c:\users\poldo_000\documents\visual studio 2013\Projects\CountriesViewer\CountriesViewer\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\poldo_000\documents\visual studio 2013\Projects\CountriesViewer\CountriesViewer\bin\Microsoft.Owin.Security.Google.dll
+c:\users\poldo_000\documents\visual studio 2013\Projects\CountriesViewer\CountriesViewer\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\poldo_000\documents\visual studio 2013\Projects\CountriesViewer\CountriesViewer\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\poldo_000\documents\visual studio 2013\Projects\CountriesViewer\CountriesViewer\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\poldo_000\documents\visual studio 2013\Projects\CountriesViewer\CountriesViewer\bin\Microsoft.Web.Infrastructure.dll
+c:\users\poldo_000\documents\visual studio 2013\Projects\CountriesViewer\CountriesViewer\bin\Newtonsoft.Json.dll
+c:\users\poldo_000\documents\visual studio 2013\Projects\CountriesViewer\CountriesViewer\bin\Owin.dll
+c:\users\poldo_000\documents\visual studio 2013\Projects\CountriesViewer\CountriesViewer\bin\System.Web.Helpers.dll
+c:\users\poldo_000\documents\visual studio 2013\Projects\CountriesViewer\CountriesViewer\bin\System.Web.Mvc.dll
+c:\users\poldo_000\documents\visual studio 2013\Projects\CountriesViewer\CountriesViewer\bin\System.Web.Optimization.dll
+c:\users\poldo_000\documents\visual studio 2013\Projects\CountriesViewer\CountriesViewer\bin\System.Web.Razor.dll
+c:\users\poldo_000\documents\visual studio 2013\Projects\CountriesViewer\CountriesViewer\bin\System.Web.WebPages.Deployment.dll
+c:\users\poldo_000\documents\visual studio 2013\Projects\CountriesViewer\CountriesViewer\bin\System.Web.WebPages.dll
+c:\users\poldo_000\documents\visual studio 2013\Projects\CountriesViewer\CountriesViewer\bin\System.Web.WebPages.Razor.dll
+c:\users\poldo_000\documents\visual studio 2013\Projects\CountriesViewer\CountriesViewer\bin\WebGrease.dll
+c:\users\poldo_000\documents\visual studio 2013\Projects\CountriesViewer\CountriesViewer\bin\System.Web.Helpers.xml
+c:\users\poldo_000\documents\visual studio 2013\Projects\CountriesViewer\CountriesViewer\bin\System.Web.Mvc.xml
+c:\users\poldo_000\documents\visual studio 2013\Projects\CountriesViewer\CountriesViewer\bin\System.Web.Optimization.xml
+c:\users\poldo_000\documents\visual studio 2013\Projects\CountriesViewer\CountriesViewer\bin\System.Web.Razor.xml
+c:\users\poldo_000\documents\visual studio 2013\Projects\CountriesViewer\CountriesViewer\bin\System.Web.WebPages.xml
+c:\users\poldo_000\documents\visual studio 2013\Projects\CountriesViewer\CountriesViewer\bin\System.Web.WebPages.Deployment.xml
+c:\users\poldo_000\documents\visual studio 2013\Projects\CountriesViewer\CountriesViewer\bin\System.Web.WebPages.Razor.xml
+c:\users\poldo_000\documents\visual studio 2013\Projects\CountriesViewer\CountriesViewer\bin\Newtonsoft.Json.xml
+c:\users\poldo_000\documents\visual studio 2013\Projects\CountriesViewer\CountriesViewer\bin\Antlr3.Runtime.pdb
+c:\users\poldo_000\documents\visual studio 2013\Projects\CountriesViewer\CountriesViewer\bin\EntityFramework.xml
+c:\users\poldo_000\documents\visual studio 2013\Projects\CountriesViewer\CountriesViewer\bin\EntityFramework.SqlServer.xml
+c:\users\poldo_000\documents\visual studio 2013\Projects\CountriesViewer\CountriesViewer\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\poldo_000\documents\visual studio 2013\Projects\CountriesViewer\CountriesViewer\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\poldo_000\documents\visual studio 2013\Projects\CountriesViewer\CountriesViewer\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\poldo_000\documents\visual studio 2013\Projects\CountriesViewer\CountriesViewer\bin\Microsoft.Owin.xml
+c:\users\poldo_000\documents\visual studio 2013\Projects\CountriesViewer\CountriesViewer\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\poldo_000\documents\visual studio 2013\Projects\CountriesViewer\CountriesViewer\bin\Microsoft.Owin.Security.xml
+c:\users\poldo_000\documents\visual studio 2013\Projects\CountriesViewer\CountriesViewer\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\poldo_000\documents\visual studio 2013\Projects\CountriesViewer\CountriesViewer\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\poldo_000\documents\visual studio 2013\Projects\CountriesViewer\CountriesViewer\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\poldo_000\documents\visual studio 2013\Projects\CountriesViewer\CountriesViewer\bin\Microsoft.Owin.Security.Google.xml
+c:\users\poldo_000\documents\visual studio 2013\Projects\CountriesViewer\CountriesViewer\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\poldo_000\documents\visual studio 2013\Projects\CountriesViewer\CountriesViewer\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\poldo_000\documents\visual studio 2013\Projects\CountriesViewer\CountriesViewer\obj\Debug\CountriesViewer.dll
+c:\users\poldo_000\documents\visual studio 2013\Projects\CountriesViewer\CountriesViewer\obj\Debug\CountriesViewer.pdb
+C:\Users\poldo_000\Desktop\CountriesViewer\CountriesViewer\bin\CountriesViewer.dll.config
+C:\Users\poldo_000\Desktop\CountriesViewer\CountriesViewer\bin\CountriesViewer.dll
+C:\Users\poldo_000\Desktop\CountriesViewer\CountriesViewer\bin\CountriesViewer.pdb
+C:\Users\poldo_000\Desktop\CountriesViewer\CountriesViewer\bin\Antlr3.Runtime.dll
+C:\Users\poldo_000\Desktop\CountriesViewer\CountriesViewer\bin\EntityFramework.dll
+C:\Users\poldo_000\Desktop\CountriesViewer\CountriesViewer\bin\EntityFramework.SqlServer.dll
+C:\Users\poldo_000\Desktop\CountriesViewer\CountriesViewer\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\poldo_000\Desktop\CountriesViewer\CountriesViewer\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\poldo_000\Desktop\CountriesViewer\CountriesViewer\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\poldo_000\Desktop\CountriesViewer\CountriesViewer\bin\Microsoft.Owin.dll
+C:\Users\poldo_000\Desktop\CountriesViewer\CountriesViewer\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\poldo_000\Desktop\CountriesViewer\CountriesViewer\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\poldo_000\Desktop\CountriesViewer\CountriesViewer\bin\Microsoft.Owin.Security.dll
+C:\Users\poldo_000\Desktop\CountriesViewer\CountriesViewer\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\poldo_000\Desktop\CountriesViewer\CountriesViewer\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\poldo_000\Desktop\CountriesViewer\CountriesViewer\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\poldo_000\Desktop\CountriesViewer\CountriesViewer\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\poldo_000\Desktop\CountriesViewer\CountriesViewer\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\poldo_000\Desktop\CountriesViewer\CountriesViewer\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\poldo_000\Desktop\CountriesViewer\CountriesViewer\bin\Newtonsoft.Json.dll
+C:\Users\poldo_000\Desktop\CountriesViewer\CountriesViewer\bin\Owin.dll
+C:\Users\poldo_000\Desktop\CountriesViewer\CountriesViewer\bin\System.Web.Helpers.dll
+C:\Users\poldo_000\Desktop\CountriesViewer\CountriesViewer\bin\System.Web.Mvc.dll
+C:\Users\poldo_000\Desktop\CountriesViewer\CountriesViewer\bin\System.Web.Optimization.dll
+C:\Users\poldo_000\Desktop\CountriesViewer\CountriesViewer\bin\System.Web.Razor.dll
+C:\Users\poldo_000\Desktop\CountriesViewer\CountriesViewer\bin\System.Web.WebPages.Deployment.dll
+C:\Users\poldo_000\Desktop\CountriesViewer\CountriesViewer\bin\System.Web.WebPages.dll
+C:\Users\poldo_000\Desktop\CountriesViewer\CountriesViewer\bin\System.Web.WebPages.Razor.dll
+C:\Users\poldo_000\Desktop\CountriesViewer\CountriesViewer\bin\WebGrease.dll
+C:\Users\poldo_000\Desktop\CountriesViewer\CountriesViewer\bin\System.Web.Helpers.xml
+C:\Users\poldo_000\Desktop\CountriesViewer\CountriesViewer\bin\System.Web.Mvc.xml
+C:\Users\poldo_000\Desktop\CountriesViewer\CountriesViewer\bin\System.Web.Optimization.xml
+C:\Users\poldo_000\Desktop\CountriesViewer\CountriesViewer\bin\System.Web.Razor.xml
+C:\Users\poldo_000\Desktop\CountriesViewer\CountriesViewer\bin\System.Web.WebPages.xml
+C:\Users\poldo_000\Desktop\CountriesViewer\CountriesViewer\bin\System.Web.WebPages.Deployment.xml
+C:\Users\poldo_000\Desktop\CountriesViewer\CountriesViewer\bin\System.Web.WebPages.Razor.xml
+C:\Users\poldo_000\Desktop\CountriesViewer\CountriesViewer\bin\Newtonsoft.Json.xml
+C:\Users\poldo_000\Desktop\CountriesViewer\CountriesViewer\bin\Antlr3.Runtime.pdb
+C:\Users\poldo_000\Desktop\CountriesViewer\CountriesViewer\bin\EntityFramework.xml
+C:\Users\poldo_000\Desktop\CountriesViewer\CountriesViewer\bin\EntityFramework.SqlServer.xml
+C:\Users\poldo_000\Desktop\CountriesViewer\CountriesViewer\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\poldo_000\Desktop\CountriesViewer\CountriesViewer\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\poldo_000\Desktop\CountriesViewer\CountriesViewer\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\poldo_000\Desktop\CountriesViewer\CountriesViewer\bin\Microsoft.Owin.xml
+C:\Users\poldo_000\Desktop\CountriesViewer\CountriesViewer\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\poldo_000\Desktop\CountriesViewer\CountriesViewer\bin\Microsoft.Owin.Security.xml
+C:\Users\poldo_000\Desktop\CountriesViewer\CountriesViewer\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\poldo_000\Desktop\CountriesViewer\CountriesViewer\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\poldo_000\Desktop\CountriesViewer\CountriesViewer\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\poldo_000\Desktop\CountriesViewer\CountriesViewer\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\poldo_000\Desktop\CountriesViewer\CountriesViewer\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\poldo_000\Desktop\CountriesViewer\CountriesViewer\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\poldo_000\Desktop\CountriesViewer\CountriesViewer\obj\Debug\CountriesViewer.csprojResolveAssemblyReference.cache
+C:\Users\poldo_000\Desktop\CountriesViewer\CountriesViewer\obj\Debug\CountriesViewer.dll
+C:\Users\poldo_000\Desktop\CountriesViewer\CountriesViewer\obj\Debug\CountriesViewer.pdb
