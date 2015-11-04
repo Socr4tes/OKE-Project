@@ -1,7 +1,10 @@
 ﻿using CountriesViewer.Helpers;
 using CountriesViewer.Models.Repositories;
+using CountriesViewer.Properties;
+using log4net.Config;
 using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
@@ -19,6 +22,7 @@ namespace CountriesViewer
             RouteConfig.RegisterRoutes(RouteTable.Routes);
             BundleConfig.RegisterBundles(BundleTable.Bundles);
             CountryRepository.Countries = DataContext.LoadData();
+            XmlConfigurator.Configure();
         }
     }
 }

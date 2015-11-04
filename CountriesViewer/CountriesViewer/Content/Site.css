@@ -47,7 +47,14 @@ input[type="checkbox"].input-validation-error {
     display: inline;
 }
 
-.coutriesList {
+.table.coutriesList {
     width: 20%;
     display:inline-block;
+}
+
+.countryDetails {
+    width: 25%;
+    padding: 3px;
+    border-radius: 3px;
+    background: #E6EFF2;
 }

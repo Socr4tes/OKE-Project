@@ -1,0 +1,3 @@
+ERROR 11 CountriesViewer.Helpers.DataContext - Serializng file
+INFO 10 CountriesViewer.Helpers.DataContext - Serializng file
+INFO 6 CountriesViewer.Helpers.DataContext - Serializng file

@@ -3,6 +3,7 @@ using CountriesViewer.Models.Interfaces;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Threading.Tasks;
 using System.Web;
 
 namespace CountriesViewer.Models.Repositories
@@ -21,10 +22,17 @@ namespace CountriesViewer.Models.Repositories
             return Countries.CountriesList.Single(c => c.Name == name);
         }
 
-        public void AddCountry(Country country)
+        public bool AddCountry(Country country)
         {
+            if (Countries.CountriesList.Any(c => c.Name == country.Name))
+            {
+                return false;
+            }
+
             Countries.CountriesList.Add(country);
             DataContext.SaveDatabase(Countries);
+
+            return true;
         }
     }
 }

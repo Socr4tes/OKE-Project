@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Countries xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Country>
+    <Name>Malta</Name>
+    <Capital>Valetta</Capital>
+    <Area>316</Area>
+    <Population>445426</Population>
+  </Country>
+  <Country>
+    <Name>Poland</Name>
+    <Capital>Warsaw</Capital>
+    <Area>377944</Area>
+    <Population>38483957</Population>
+  </Country>
+  <Country>
+    <Name>Japan</Name>
+    <Capital>Tokyo</Capital>
+    <Area>312679</Area>
+    <Population>126919659</Population>
+  </Country>
+</Countries>

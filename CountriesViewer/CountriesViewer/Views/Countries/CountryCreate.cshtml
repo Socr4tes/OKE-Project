@@ -20,7 +20,7 @@
             @Html.LabelFor(model => model.Name, new { @class = "control-label col-md-2" })
             <div class="col-md-10">
                 @Html.EditorFor(model => model.Name)
-                @Html.ValidationMessageFor(model => model.Name)
+                @Html.ValidationMessageFor(model => model.Name, null, new { @class = "alert alert-error" })
             </div>
         </div>
 
@@ -28,7 +28,7 @@
             @Html.LabelFor(model => model.Capital, new { @class = "control-label col-md-2" })
             <div class="col-md-10">
                 @Html.EditorFor(model => model.Capital)
-                @Html.ValidationMessageFor(model => model.Capital)
+                @Html.ValidationMessageFor(model => model.Capital, null, new { @class = "alert alert-error" })
             </div>
         </div>
 
@@ -36,7 +36,7 @@
             @Html.LabelFor(model => model.Area, new { @class = "control-label col-md-2" })
             <div class="col-md-10">
                 @Html.EditorFor(model => model.Area)
-                @Html.ValidationMessageFor(model => model.Area)
+                @Html.ValidationMessageFor(model => model.Area, null, new { @class = "alert alert-error" })
             </div>
         </div>
 
@@ -44,7 +44,7 @@
             @Html.LabelFor(model => model.Population, new { @class = "control-label col-md-2" })
             <div class="col-md-10">
                 @Html.EditorFor(model => model.Population)
-                @Html.ValidationMessageFor(model => model.Population)
+                @Html.ValidationMessageFor(model => model.Population, null, new { @class = "alert alert-error" })
             </div>
         </div>
 

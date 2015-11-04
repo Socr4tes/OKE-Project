@@ -1,39 +1,11 @@
 ﻿@model CountriesViewer.Models.Country
 
 <div class="countryDetails">
-    <span>Details</span>
-    <dl>
-        <dt>
-            @Html.DisplayNameFor(model => model.Name)
-        </dt>
-
-        <dd>
-            @Html.DisplayFor(model => model.Name)
-        </dd>
-
-        <dt>
-            @Html.DisplayNameFor(model => model.Capital)
-        </dt>
-
-        <dd>
-            @Html.DisplayFor(model => model.Capital)
-        </dd>
-
-        <dt>
-            @Html.DisplayNameFor(model => model.Area)
-        </dt>
-
-        <dd>
-            @Html.DisplayFor(model => model.Area) km&#178
-        </dd>
-
-        <dt>
-            @Html.DisplayNameFor(model => model.Population)
-        </dt>
-
-        <dd>
-            @Html.DisplayFor(model => model.Population)
-        </dd>
-
-    </dl>
+    <h4>Details</h4>
+    <div>
+        <div><b>Capital:</b> @Html.DisplayFor(model => model.Capital)</div>
+        <div><b>Area:</b> @Html.DisplayFor(model => model.Area) km&#178</div>
+        <div><b>Population:</b> @Html.DisplayFor(model => model.Population)</div>
+    </div>
 </div>
+

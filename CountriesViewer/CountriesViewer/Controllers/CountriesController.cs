@@ -33,7 +33,12 @@ namespace CountriesViewer.Controllers
         [HttpPost]
         public ActionResult Create(Country country)
         {
-            repository.AddCountry(country);
+            var status = repository.AddCountry(country);
+            if (status == false)
+            {
+                ModelState.AddModelError("Name", "Country with this name already exists.");
+                return View("CountryCreate", country);
+            }
             return RedirectToAction("Index");
         }
 	}

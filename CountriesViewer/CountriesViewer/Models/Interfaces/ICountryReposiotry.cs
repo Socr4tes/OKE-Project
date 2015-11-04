@@ -10,6 +10,6 @@ namespace CountriesViewer.Models.Interfaces
     {
         IEnumerable<T> GetAllCountries();
         T GetCountry(string name);
-        void AddCountry(T country);
+        bool AddCountry(T country);
     }
 }
